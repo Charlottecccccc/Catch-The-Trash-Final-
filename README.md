@@ -1,6 +1,4 @@
-# Catch-The-Trash-Final-
-
-# Project Link:
+# Catch-The-Trash-Final- Project Link:
 https://arcade.makecode.com/S21445-57824-53184-89747
 
 # Catch the Trash
