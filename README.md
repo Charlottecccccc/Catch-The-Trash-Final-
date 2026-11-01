@@ -33,9 +33,11 @@ Catch the Trash is a game about collecting ocean rubbish while avoiding marine l
 
 # Setup and Usage
 
-No separate Python installation is required. Open the Catch The Trash project link (https://arcade.makecode.com/S21445-57824-53184-89747) in a browser and select 'Play' to run the game.
+No separate Python installation is required. Open the Catch The Trash project link (https://arcade.makecode.com/S21445-57824-53184-89747) in a browser to run the game.
 
 Use the directional controls to move the net, collect rubbish, and avoid the fish.
+
+Once the game is over, select 'A' to restart.
 
 # Project Status
 
