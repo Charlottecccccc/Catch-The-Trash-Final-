@@ -41,7 +41,7 @@ Once the game is over, select 'A' to restart.
 
 # Project Status
 
-The project is completed for a Huniversity coding assignment.
+The project is completed for a University coding assignment.
 
 # Room for Improvement
 
